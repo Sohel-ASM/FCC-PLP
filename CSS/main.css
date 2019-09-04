@@ -48,3 +48,7 @@ body {
     line-height: 1.8;
     cursor: pointer;
 }
+
+#header {
+    border-bottom: 2px solid black;
+}
