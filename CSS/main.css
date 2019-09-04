@@ -60,3 +60,10 @@ header {
     font-size: 2rem;
     font-weight: 550;
 }
+
+#main-doc {
+    position: absolute;
+    left: 320px;
+    margin-left: 2rem;
+    padding: 1.3rem;
+}
