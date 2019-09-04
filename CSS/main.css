@@ -22,3 +22,9 @@ body {
     border-right: solid;
     border-color: rgba(0, 22, 22, 0.4);
 }
+
+#navbar ul {
+    height: 85%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
