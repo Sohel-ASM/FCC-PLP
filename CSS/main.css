@@ -52,3 +52,11 @@ body {
 #header {
     border-bottom: 2px solid black;
 }
+
+header {
+    color: black;
+    margin: 0.8rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 550;
+}
