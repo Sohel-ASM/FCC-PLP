@@ -85,3 +85,15 @@ header {
 .main-section li {
     margin: 1rem 0 0 1.2rem;
 }
+
+.main-section code {
+    display: block;
+    white-space: pre;
+    position: relative;
+    text-align: left;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    background-color: #f7f7f7;
+    width: 50%;
+}
