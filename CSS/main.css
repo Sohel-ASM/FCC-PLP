@@ -11,3 +11,14 @@ body {
 #page_wrap {
     position: relative;
 }
+
+#navbar {
+    width: 300px;
+    min-width: 290px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+}
