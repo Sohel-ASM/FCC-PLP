@@ -67,3 +67,12 @@ header {
     margin-left: 2rem;
     padding: 1.3rem;
 }
+
+#main-doc header {
+    text-align: left;
+    margin-left: -10px;
+}
+
+.main-section {
+    margin-bottom: 1rem;
+}
